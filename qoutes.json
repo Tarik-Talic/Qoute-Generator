@@ -1,0 +1,52 @@
+[
+  {
+    "person": "Walt Disney",
+    "quote": "`The way to get started is to quit talking and begin doing.`",
+    "imgFile": "assets/persons/Walt_Disney.JPG"
+  },
+  {
+    "person": "Steve Jobs",
+    "quote": "`Your time is limited, so dont waste it living someone elses life. Dont be trapped by dogma , which is living with the results of other peoples thinking.`",
+    "imgFile": "assets/persons/Steve_Jobs.jpg"
+  },
+  {
+    "person": "Eleanor Roosevelt",
+    "quote": "`If life were predictable it would cease to be life, and be without flavor.`",
+    "imgFile": "assets/persons/Eleanor_Roosevelt.jpg"
+  },
+  {
+    "person": "Oprah Winfrey",
+    "quote": "`If you look at what you have in life, youll always have more. If you look at what you dont have in life, youll never have enough.`",
+    "imgFile": "assets/persons/Oprah_Winfrey.jpg"
+  },
+  {
+    "person": "James Cameron",
+    "quote": "`If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. `",
+    "imgFile": "assets/persons/James_Cameron.jpg"
+  },
+  {
+    "person": "John Lennon",
+    "quote": "`Life is what happens when you're busy making other plans`",
+    "imgFile": "assets/persons/John_Lennon.jpg"
+  },
+  {
+    "person": "Franklin D. Roosevelt",
+    "quote": "`When you reach the end of your rope, tie a knot in it and hang on.`",
+    "imgFile": "assets/persons/Franklin_D_Roosevelt.jpg"
+  },
+  {
+    "person": "Margaret Mead",
+    "quote": "`Always remember that you are absolutely unique. Just like everyone else.`",
+    "imgFile": "assets/persons/Margaret_Mead.jpg"
+  },
+  {
+    "person": "Anne Frank",
+    "quote": "`Whoever is happy will make others happy too.`",
+    "imgFile": "assets/persons/Anne_Frank.jpg"
+  },
+  {
+    "person": "Robert Louis Stevenson",
+    "quote": "`Don't judge each day by the harvest you reap but by the seeds that you plant`",
+    "imgFile": "assets/persons/Robert_Louis_Stevenson.jpg"
+  }
+]

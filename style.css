@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url(./assets/books.jpg);
+  background-size: 100%;
+}
+
+.dp-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.heading {
+  width: 23rem;
+  text-align: center;
+  color: white;
+  background-color: #404040;
+  border: 2px solid white;
+  cursor: default;
+}
+h1,
+#person {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.8rem;
+  letter-spacing: 5px;
+}
+
+.window {
+  background-color: whitesmoke;
+  width: 40rem;
+  height: 30rem;
+}
+img {
+  height: 10rem;
+  width: 12rem;
+  display: none;
+}
+#qoute {
+  font-family: "Pacifico", cursive;
+  font-size: 1.3rem;
+  width: 75%;
+}
+
+#generator-button {
+  padding: 10px 15px;
+  font-size: 1.3rem;
+  color: white;
+  background-color: #404040;
+  cursor: pointer;
+}
+
+#generator-button:hover {
+  color: #404040;
+  background-color: #bfbfbf;
+  scale: 1.2;
+}
+.heading,
+.window,
+img,
+#generator-button {
+  border-radius: 10px;
+}
